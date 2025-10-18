@@ -2,7 +2,7 @@
 <div align="center" style="position: relative; width: 100%;">
 
   <!-- 🔹 Background Banner -->
-  <img src="https://raw.githubusercontent.com/DivOnGit/DivOnGit/main/assets/banner.gif"
+  <img src="https://raw.githubusercontent.com/DivOnGit/DivOnGit/main/assets/banner.png"
        alt="Matrix Banner" width="100%" height="auto" />
 
   <!-- 🔹 Text Overlay -->
