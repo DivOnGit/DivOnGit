@@ -2,20 +2,8 @@
 <div align="center" style="position: relative; width: 100%;">
 
   <!-- 🔹 Background Banner -->
-  <img src="https://raw.githubusercontent.com/DivOnGit/DivOnGit/main/assets/ban.png"
+  <img src="https://raw.githubusercontent.com/DivOnGit/DivOnGit/main/assets/ban.gif"
        alt="Matrix Banner" width="100%" height="auto" />
-
-  <!-- 🔹 Text Overlay -->
-  <div style="position: absolute; top: 45%; left: 50%; transform: translate(-50%, -50%);
-              color: white; font-family: 'JetBrains Mono', monospace; text-shadow: 0 0 10px #00BFFF;">
-    <h1>👋 Hey, I'm <span style="color:#00BFFF;">Divyam Singh</span></h1>
-    <h3>💻 AI & ML Developer | Building Fusion AI | Full-Stack & Automation Enthusiast</h3>
-  </div>
-
-  <!-- 🔹 Side GIF Animation -->
-  <img src="https://raw.githubusercontent.com/DivOnGit/DivOnGit/main/assets/coding.gif"
-       alt="Coding Animation" width="200" height="200"
-       style="position: absolute; top: 40%; right: 8%; border-radius: 50%;" />
 
 </div>
 
@@ -24,7 +12,6 @@
 
 ---
 
-<h1 align="center">👋 Hey, I'm <span style="color:#007BFF;">Divyam Singh</span></h1>
 <h3 align="center">💻 B.Tech in AI & ML | Building Fusion AI | Full-Stack & Automation Enthusiast</h3>
 
 <div align="center">
@@ -38,10 +25,22 @@
 
 ## 🧠 About Me
 
-💡 I’m **Divyam Singh**, a passionate AI & ML engineer in the making, obsessed with building **intelligent systems that adapt** to users.  
-🎯 Currently developing **Fusion AI** — an offline-first personal assistant that works even without the cloud.  
-⚙️ I love blending **AI, automation, and system design** to push what’s possible.  
-🌱 Always learning, always shipping.
+<div align="center" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
+
+  <div style="flex: 1; min-width: 280px; max-width: 600px; padding: 10px; text-align: left;">
+    💡 I’m **Divyam Singh**, a passionate AI & ML engineer in the making, obsessed with building **intelligent systems that adapt** to users.  
+    🎯 Currently developing **Fusion AI** — an offline-first personal assistant that works even without the cloud.  
+    ⚙️ I love blending **AI, automation, and system design** to push what’s possible.  
+    🌱 Always learning, always shipping.
+  </div>
+
+  <div style="flex: 1; min-width: 200px; text-align: center;">
+    <img src="https://raw.githubusercontent.com/DivOnGit/DivOnGit/main/assets/coding.gif"
+         alt="Coding Animation" width="240" height="240"
+         style="border-radius: 50%; margin-top: 20px;" />
+  </div>
+
+</div>
 
 ---
 
