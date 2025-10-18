@@ -107,5 +107,3 @@
 > “I believe in building AI that *adapts*, not just automates.”  
 
 ---
-
-### 🧩 Designed with ❤️ by **Divyam Singh** | Powered by Markdown, Figma & GitHub Actions
