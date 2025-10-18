@@ -1,3 +1,27 @@
+<!-- ====== PROFILE HEADER SECTION ====== -->
+<div align="center" style="position: relative; width: 100%;">
+
+  <!-- 🔹 Background Banner -->
+  <img src="https://raw.githubusercontent.com/DivOnGit/DivOnGit/main/assets/banner.gif"
+       alt="Matrix Banner" width="100%" height="auto" />
+
+  <!-- 🔹 Text Overlay -->
+  <div style="position: absolute; top: 45%; left: 50%; transform: translate(-50%, -50%);
+              color: white; font-family: 'JetBrains Mono', monospace; text-shadow: 0 0 10px #00BFFF;">
+    <h1>👋 Hey, I'm <span style="color:#00BFFF;">Divyam Singh</span></h1>
+    <h3>💻 AI & ML Developer | Building Fusion AI | Full-Stack & Automation Enthusiast</h3>
+  </div>
+
+  <!-- 🔹 Side GIF Animation -->
+  <img src="https://raw.githubusercontent.com/DivOnGit/DivOnGit/main/assets/coding.gif"
+       alt="Coding Animation" width="200" height="200"
+       style="position: absolute; top: 40%; right: 8%; border-radius: 50%;" />
+
+</div>
+
+<br>
+
+
 <!-- HEADER / COVER SECTION -->
 <div align="center">
   <!-- Replace this link once your Figma-designed banner is ready -->
