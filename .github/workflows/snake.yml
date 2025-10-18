@@ -3,10 +3,10 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *"  # Runs once every day
-  workflow_dispatch:     # Allow manual runs
+  workflow_dispatch:
 
 permissions:
-  contents: write        # This gives permission to push changes (important)
+  contents: write
 
 jobs:
   generate:
@@ -17,11 +17,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Snake animation
+      - name: Generate Snake animation (Blue Matrix theme)
         uses: Platane/snk@v3
         with:
           github_user_name: DivOnGit
           outputs: dist/github-contribution-grid-snake.svg
+          # 🧠 Themed parameters:
+          color_snake: "#00BFFF"           # Neon blue snake
+          color_dots: "#161B22,#0D1117,#007BFF,#00BFFF,#38BDF8"  # Matrix glow palette
 
       - name: Push Snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v3
