@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs once every day
+    - cron: "0 0 * * *"  # Runs daily
   workflow_dispatch:
 
 permissions:
@@ -22,9 +22,10 @@ jobs:
         with:
           github_user_name: DivOnGit
           outputs: dist/github-contribution-grid-snake.svg
-          # 🧠 Themed parameters:
-          color_snake: "#00BFFF"           # Neon blue snake
-          color_dots: "#161B22,#0D1117,#007BFF,#00BFFF,#38BDF8"  # Matrix glow palette
+        env:
+          SNAKE_COLOR: "#00BFFF"                   # Neon blue
+          DOT_COLOR: "#0D1117,#1E293B,#007BFF"    # Dark blue gradient
+          SNAKE_SPEED: "5"                        # Slightly faster movement
 
       - name: Push Snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v3
