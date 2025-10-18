@@ -25,22 +25,23 @@
 
 ## 🧠 About Me
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
+<table>
+<tr>
+<td width="65%" valign="top">
 
-  <div style="flex: 1; min-width: 280px; max-width: 600px; padding: 10px; text-align: left;">
-    💡 I’m **Divyam Singh**, a passionate AI & ML engineer in the making, obsessed with building **intelligent systems that adapt** to users.  
-    🎯 Currently developing **Fusion AI** — an offline-first personal assistant that works even without the cloud.  
-    ⚙️ I love blending **AI, automation, and system design** to push what’s possible.  
-    🌱 Always learning, always shipping.
-  </div>
+💡 I’m **Divyam Singh**, a passionate AI & ML engineer in the making, obsessed with building **intelligent systems that adapt** to users.  
+🎯 Currently developing **Fusion AI** — an offline-first personal assistant that works even without the cloud.  
+⚙️ I love blending **AI, automation, and system design** to push what’s possible.  
+🌱 Always learning, always shipping.
 
-  <div style="flex: 1; min-width: 200px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/DivOnGit/DivOnGit/main/assets/coding.gif"
-         alt="Coding Animation" width="240" height="240"
-         style="border-radius: 50%; margin-top: 20px;" />
-  </div>
+</td>
+<td width="35%" align="center" valign="middle">
 
-</div>
+<img src="https://raw.githubusercontent.com/DivOnGit/DivOnGit/main/assets/coding.gif" alt="Coding Animation" width="250" height="250" style="border-radius: 50%;" />
+
+</td>
+</tr>
+</table>
 
 ---
 
