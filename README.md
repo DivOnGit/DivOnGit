@@ -20,13 +20,9 @@
 </div>
 
 <br>
+<div style="height: 30px; background: linear-gradient(to bottom, rgba(13,17,23,0.8), #0D1117);"></div>
 
-
-<!-- HEADER / COVER SECTION -->
-<div align="center">
-  <!-- Replace this link once your Figma-designed banner is ready -->
-  <img src="https://raw.githubusercontent.com/DivOnGit/DivOnGit/main/assets/code-matrix-banner.gif" width="100%" alt="Divyam Singh's Cover Banner" />
-</div>
+---
 
 <h1 align="center">👋 Hey, I'm <span style="color:#007BFF;">Divyam Singh</span></h1>
 <h3 align="center">💻 B.Tech in AI & ML | Building Fusion AI | Full-Stack & Automation Enthusiast</h3>
